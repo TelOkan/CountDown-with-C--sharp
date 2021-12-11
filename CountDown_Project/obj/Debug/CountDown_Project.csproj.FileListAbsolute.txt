@@ -1,0 +1,24 @@
+C:\Users\OKAN TEL\source\repos\CountDown_Project\CountDown_Project\bin\Debug\CountDown_Project.exe.config
+C:\Users\OKAN TEL\source\repos\CountDown_Project\CountDown_Project\bin\Debug\CountDown_Project.exe
+C:\Users\OKAN TEL\source\repos\CountDown_Project\CountDown_Project\bin\Debug\CountDown_Project.pdb
+C:\Users\OKAN TEL\source\repos\CountDown_Project\CountDown_Project\obj\Debug\CountDown_Project.csproj.SuggestedBindingRedirects.cache
+C:\Users\OKAN TEL\source\repos\CountDown_Project\CountDown_Project\obj\Debug\CountDown_Project.Form1.resources
+C:\Users\OKAN TEL\source\repos\CountDown_Project\CountDown_Project\obj\Debug\CountDown_Project.Properties.Resources.resources
+C:\Users\OKAN TEL\source\repos\CountDown_Project\CountDown_Project\obj\Debug\CountDown_Project.csproj.GenerateResource.cache
+C:\Users\OKAN TEL\source\repos\CountDown_Project\CountDown_Project\obj\Debug\CountDown_Project.csproj.CoreCompileInputs.cache
+C:\Users\OKAN TEL\source\repos\CountDown_Project\CountDown_Project\obj\Debug\CountDown_Project.exe
+C:\Users\OKAN TEL\source\repos\CountDown_Project\CountDown_Project\obj\Debug\CountDown_Project.pdb
+C:\Users\OKAN TEL\source\repos\CountDown_Project - setup\CountDown_Project\bin\Debug\CountDown_Project.exe.config
+C:\Users\OKAN TEL\source\repos\CountDown_Project - setup\CountDown_Project\bin\Debug\CountDown_Project.exe
+C:\Users\OKAN TEL\source\repos\CountDown_Project - setup\CountDown_Project\bin\Debug\CountDown_Project.pdb
+C:\Users\OKAN TEL\source\repos\CountDown_Project - setup\CountDown_Project\obj\Debug\CountDown_Project.csproj.SuggestedBindingRedirects.cache
+C:\Users\OKAN TEL\source\repos\CountDown_Project - setup\CountDown_Project\obj\Debug\CountDown_Project.Form1.resources
+C:\Users\OKAN TEL\source\repos\CountDown_Project - setup\CountDown_Project\obj\Debug\CountDown_Project.Properties.Resources.resources
+C:\Users\OKAN TEL\source\repos\CountDown_Project - setup\CountDown_Project\obj\Debug\CountDown_Project.csproj.GenerateResource.cache
+C:\Users\OKAN TEL\source\repos\CountDown_Project - setup\CountDown_Project\obj\Debug\CountDown_Project.csproj.CoreCompileInputs.cache
+C:\Users\OKAN TEL\source\repos\CountDown_Project - setup\CountDown_Project\obj\Debug\CountDown_Project.exe
+C:\Users\OKAN TEL\source\repos\CountDown_Project - setup\CountDown_Project\obj\Debug\CountDown_Project.pdb
+C:\Users\OKAN TEL\source\repos\CountDown_Project - setup\CountDown_Project\bin\Debug\CountDown_Project.exe.manifest
+C:\Users\OKAN TEL\source\repos\CountDown_Project - setup\CountDown_Project\bin\Debug\CountDown_Project.application
+C:\Users\OKAN TEL\source\repos\CountDown_Project - setup\CountDown_Project\obj\Debug\CountDown_Project.exe.manifest
+C:\Users\OKAN TEL\source\repos\CountDown_Project - setup\CountDown_Project\obj\Debug\CountDown_Project.application
